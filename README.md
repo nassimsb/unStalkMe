@@ -61,8 +61,8 @@ Below is a list of services and Android apps that could be abused to spy on, or 
 | Google (Gmail)	  | [Link](https://myaccount.google.com/device-activity) | [Link](https://myaccount.google.com/notifications?pli=1) | 28 days |
 | Apple (icloud.com)  | [Link](https://appleid.apple.com/account/manage/section/devices) | No | NA |
 | Microsoft (outlook.com) | [Link](https://account.microsoft.com/devices) | [Link](https://account.live.com/activity) | 30 Tage [Source](https://support.microsoft.com/en-us/account-billing/what-is-the-recent-activity-page-23cf5556-4dbe-70da-82c8-bb3a8d8f8016) |
-| Yahoo | [Link] (https://github.com/schmiedecker/unStalkMe/issues/6#issue-1395045194) | [Link] (https://github.com/schmiedecker/unStalkMe/issues/6#issue-1395045194) | ca. 90 |
-| GMX | [Link](https://hilfe.gmx.net/sicherheit/sitzungen/sitzungen-beenden.html) | [Link]https://agb-server.gmx.net/datenschutz-at/ | [Link]https://agb-server.gmx.net/datenschutz-at/ |
+| Yahoo | Ja, aber nicht die Geräte, die schon lange verbunden sind. [Link] (https://github.com/schmiedecker/unStalkMe/issues/6#issue-1395045194) | Bei Aktivitäten werden nur die Logins gespeichert, bleibt ein Gerät eingeloggt, werden die Zugriffe nicht gespeichert.   | ca. 90 |
+| GMX | [Link](https://docs.google.com/document/d/1qjIP2uiaR3q4KJuMms_4N-6Dd3EPArbaKTjKR_pjiSs/edit?usp=sharing) | [Link]https://agb-server.gmx.net/datenschutz-at/ | [Link]https://agb-server.gmx.net/datenschutz-at/ |
 | protonmail.com | TBD | TBD | TBD |
 | mailbox.org | TBD | TBD | TBD |
 | ... ||||
